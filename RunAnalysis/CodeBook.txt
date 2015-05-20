@@ -1,0 +1,42 @@
+The final data set consists of 68 variables:
+
+1. Activity Description
+	Denotes the activity being performed by the subject having values:
+		WALKING
+
+		WALKING_UPSTAIRS
+
+		WALKING_DOWNSTAIRS
+
+		SITTING
+
+		STANDING
+
+		LAYING
+
+ 
+2. SubjectID
+	Denotes the subject from 1 to 30
+
+
+Columns 3:68 are the average values of mean and standard deviation variables estimated from the following measurements
+for the 3-axial signals in the X, Y and Z directions, grouped by ActivityDescription and SubjectID
+
+tBodyAcc-XYZ
+tGravityAcc-XYZ
+tBodyAccJerk-XYZ
+tBodyGyro-XYZ
+tBodyGyroJerk-XYZ
+tBodyAccMag
+tGravityAccMag
+tBodyAccJerkMag
+tBodyGyroMag
+tBodyGyroJerkMag
+fBodyAcc-XYZ
+fBodyAccJerk-XYZ
+fBodyGyro-XYZ
+fBodyAccMag
+fBodyAccJerkMag
+fBodyGyroMag
+fBodyGyroJerkMag
+
