@@ -1,0 +1,7 @@
+#Rhistory file
+.Rhistory
+
+#Any data file
+*.rds
+*.txt
+*.png
