@@ -4,4 +4,6 @@
 #Any data file
 *.rds
 *.txt
-*.png
+*.xlsx
+*.csv
+
