@@ -7,4 +7,6 @@
 *.xlsx
 *.csv
 ReproducibleResearch/RepData_PeerAssessment1/*
+*.csv.bz2
+*.pdf
 
