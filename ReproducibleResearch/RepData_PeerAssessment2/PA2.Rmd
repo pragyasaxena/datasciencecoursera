@@ -1,0 +1,21 @@
+---
+title: "Peer Assessment 2"
+output: html_document
+---
+
+##SYNOPSIS
+##DATA PROCESSING
+```{r}
+#read storm data from file
+stormdata<-read.csv("repdata-data-StormData.csv.bz2")
+
+
+
+
+
+
+
+
+```
+
+##RESULTS
